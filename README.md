@@ -1,0 +1,1 @@
+# ratify-azure-setup
